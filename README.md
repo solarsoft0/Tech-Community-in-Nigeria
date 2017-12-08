@@ -29,6 +29,7 @@ A list of Tech Community in Nigeria
 
 ## <a name="F"> </a>F
  [ForLoop Africa](http://forloop.africa) - A community of passionate software developers and enthusiasts across Africa. **Founded by [Olalere Ridwan](https://twitter.com/@ridwan_olalere)**
+ [Frontstack](https://frontstack.io) - It is a community built on the foundation of technological excellence and developer awareness. As its name implies, it’s all about front-end web technologies and their affinities. **Founded by [Ire Aderinokun and Christian Nwamba](https://twitter.com/ireaderinokun, https://twitter.com/codebeast)**
  
 
 ## <a name="G"> </a>G
