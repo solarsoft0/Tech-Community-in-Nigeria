@@ -8,7 +8,7 @@ A list of Tech Community in Nigeria
 
 ## Example
 
- [Community Name](http://example.com) - Community brief description......... **FoundedBy [CommunnityLeader(s) Name](https://twitter.com/username, ----)**
+ [Community Name](http://example.com) - Community brief description......... **Founded by [CommunnityLeader(s) Name](https://twitter.com/username, ----)**
  
 
 
@@ -28,7 +28,8 @@ A list of Tech Community in Nigeria
 
 
 ## <a name="F"> </a>F
-
+ [ForLoop Africa](http://forloop.africa) - A community of passionate software developers and enthusiasts across Africa. **Founded by [Olalere Ridwan](https://twitter.com/@ridwan_olalere)**
+ 
 
 ## <a name="G"> </a>G
 
